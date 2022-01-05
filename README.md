@@ -1,2 +1,2 @@
 # dungeon_crawler
-A dungeon crawler python game.
+Dungeon crawler - a simple console game written in Python
