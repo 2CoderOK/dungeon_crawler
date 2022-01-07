@@ -71,7 +71,7 @@ while health > 0:
         gold += g
     elif srt == RoomType.HEALTH:
         h = randint(1, 5)
-        print(f"You found {h} helath potions!")
+        print(f"You found {h} health potions!")
         health += h
     elif srt == RoomType.MONSTER:
         health = fight(health)
