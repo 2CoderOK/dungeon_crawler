@@ -80,8 +80,8 @@ while health > 0:
         print(f"It's a trap. You get {h} hits!")
         health -= h
 
-    print(f"STATS: health {health}, gold {gold} coins, rooms {rooms}")
+    print(f"STATS: health {health}, gold coins {gold}, rooms {rooms}")
 
 print("=" * 30)
 print("You are a hero! We will remember you forever! ... try again ;)")
-print(f"You survived {rooms} rooms and collected {gold} gold coins!")
+print(f"You've survived {rooms} rooms and collected {gold} gold coins!")
